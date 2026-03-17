@@ -8,7 +8,21 @@
 * Internet connection
 
 ## Skills Learned
+
+* Endpoint Management
+* Data Isolation Techniques
+* Mobile Security Architecture
+* Security Testing & Validation
+* Policy Implementation
+  
 ## Benefits to an Organization
+
+* When an organization implements containerization, they are solving three massive headaches at once: Security, Privacy, and Cost.
+* Data Loss Prevention (DLP): This is the biggest win. By creating a Work Profile, the organization ensures that a user cannot accidentally (or intentionally) copy a secret company document and paste it into a personal WhatsApp chat or upload it to their personal Google Drive. The "wall" stops the data flow.
+* Remote "Selective" Wipe: If an employee leaves the company or loses their phone, the IT department can "nuke" the Work Profile. This deletes all company emails and files instantly without touching the employee's personal photos or family videos.
+* Reduced Liability (Privacy): Because the company only sees what is inside the Island/Work container, they are protected from legal issues. They won't accidentally see a worker's private medical info or personal messages, which keeps the organization compliant with privacy laws (like GDPR or POPIA).
+* BYOD Cost Savings: The company doesn't have to buy 500 expensive iPhones. They let employees use the devices they already love, but stay secure through the "Island" boundary.
+  
 ## Steps
 
 ## 1. Step 1
@@ -53,8 +67,11 @@
 * To secure my Work profile incase someone is using my phone but I dont want him/her to access my work profile , I navigated to settings and on the serach bar I typed "Work Profile" to configure a password for my profile
   
 <img width="800" height="1280" alt="Screenshot_20260317-125738" src="https://github.com/user-attachments/assets/1b565600-cea0-434b-97f9-d078f213ee06" />
+
 <img width="800" height="1280" alt="Screenshot_20260317-125758" src="https://github.com/user-attachments/assets/4d2623d5-61c7-45f3-bf70-35d3992974b1" />
+
 <img width="800" height="1280" alt="Screenshot_20260317-130150" src="https://github.com/user-attachments/assets/7d0efdc9-9601-47d2-be52-6b01a187817a" />
+* Now if I can attempt to open the work profile, I cannot access it without the password 
 
 
 
